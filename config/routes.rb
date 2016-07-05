@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get '/user/:id/edit', to:'user#edit'
+  get    '/login',   to: 'sessions#new'
+  post   '/login',   to: 'sessions#create'
+  delete '/logout',  to: 'sessions#destroy'
   post '/signup',to: 'user#create'
   get '/signup',to:'user#new'
   get '/about', to:'static_pages#about'
