@@ -75,7 +75,7 @@ Một số chức năng chính của Sách Mềm:
 5.Các tương tác trong thanh công cụ (phần dưới cùng):
 
 * Ấn vào biểu tượng 
-![icon](https://lh5.googleusercontent.com/vFwdBFM_55nIthD17Mq0OSpCuPzUExL73VjIeI9ry5he_501aaTH9NK91oO_o7oP1zJLm84rBTXvH0BPyyXmlOoFpB48eESoK_htYl-q78ih1rmK554mipoJGiKUU8Q70qkUJnim = 100x100)để chọn các chức năng điều chỉnh như sau:
+![icon](https://lh5.googleusercontent.com/vFwdBFM_55nIthD17Mq0OSpCuPzUExL73VjIeI9ry5he_501aaTH9NK91oO_o7oP1zJLm84rBTXvH0BPyyXmlOoFpB48eESoK_htYl-q78ih1rmK554mipoJGiKUU8Q70qkUJnim = 150x150)để chọn các chức năng điều chỉnh như sau:
 
 
 * Nút
