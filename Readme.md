@@ -85,7 +85,7 @@ Một số chức năng chính của Sách Mềm:
 * Nút
 ![icon](https://lh5.googleusercontent.com/y_a2_Ff2PxyXN5hPj0x9QIAmth9xF_hzEHxMxLcJOYpniGvuGgPZawEQd5dZI82aEVcuvOlqNywvSTLc3FaowJzHOryrqFJsqRmRDqJvWFd6gtjMHzswssW9r_8AR8F-jqj39MEX)để hiện phần góp ý người dùng.
 
-* Nú
+* Nút
 ![icon](https://lh5.googleusercontent.com/C8e9KVWQ69U2D18GFbewDhAM7ktbToadjgPJjcnc37lsPWshlIzUglOM_mqc4Nfme04fQPqa1FZ9chFs_tI9nmFpthMzIkYm6s5Enhdz4pxUifq6_dWv0sd37RPtDR6vnsfO2p7K)t``  ``để hiện phần trò chơi của bài.
 
 * Nút
