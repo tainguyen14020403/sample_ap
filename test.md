@@ -87,10 +87,10 @@ Một số chức năng chính của Sách Mềm:
 <img src="https://lh5.googleusercontent.com/y_a2_Ff2PxyXN5hPj0x9QIAmth9xF_hzEHxMxLcJOYpniGvuGgPZawEQd5dZI82aEVcuvOlqNywvSTLc3FaowJzHOryrqFJsqRmRDqJvWFd6gtjMHzswssW9r_8AR8F-jqj39MEX" width="40" height="40">để hiện phần góp ý người dùng.
 
 * Nút
-<img src="https://lh5.googleusercontent.com/C8e9KVWQ69U2D18GFbewDhAM7ktbToadjgPJjcnc37lsPWshlIzUglOM_mqc4Nfme04fQPqa1FZ9chFs_tI9nmFpthMzIkYm6s5Enhdz4pxUifq6_dWv0sd37RPtDR6vnsfO2p7K" width="40" height="40">t``  ``để hiện phần trò chơi của bài.
+<img src="https://lh5.googleusercontent.com/C8e9KVWQ69U2D18GFbewDhAM7ktbToadjgPJjcnc37lsPWshlIzUglOM_mqc4Nfme04fQPqa1FZ9chFs_tI9nmFpthMzIkYm6s5Enhdz4pxUifq6_dWv0sd37RPtDR6vnsfO2p7K" width="40" height="40">để hiện phần trò chơi của bài.
 
 * Nút
-<img src="https://lh6.googleusercontent.com/DwmB3ctMOc5OBJIh1gKNmm7HmDWOpVLTZXex3EWa2hf4H4jqNKVVDWGKSWvuVcT9GxETuMhcwd-3qzLYsXLOGYsC3rf3P3QGcSOO3o82hCumiMRqpjB7pIapqfvmvFvQTGf-TS3j" width="40" height="40">`` ``để hiện phần tài liệu tham khảo của bài.
+<img src="https://lh6.googleusercontent.com/DwmB3ctMOc5OBJIh1gKNmm7HmDWOpVLTZXex3EWa2hf4H4jqNKVVDWGKSWvuVcT9GxETuMhcwd-3qzLYsXLOGYsC3rf3P3QGcSOO3o82hCumiMRqpjB7pIapqfvmvFvQTGf-TS3j" width="40" height="40">để hiện phần tài liệu tham khảo của bài.
 
 
 Ấn vào biểu tượng
