@@ -22,7 +22,7 @@ Khi xác nhận e-mail xong, bạn đã là thành viên của Sách Mềm. Hãy
 
 Những lần đăng nhập tiếp theo, khi đã có tài khoản sử dụng, bạn làm như sau:
 
-Bước 1. Truy cập trang web [https://www.sachmem.vn)](https://www.sachmem.vn) hoặc [sachmem.vn](sachmem.vn)
+Bước 1. Truy cập trang web [https://www.sachmem.vn](https://www.sachmem.vn) hoặc [sachmem.vn](sachmem.vn)
 
 Bước 2. Nhập e-mail và mật khẩu đã đăng ký, sau đó ấn Đăng nhập.
 
