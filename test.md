@@ -4,6 +4,8 @@
 
 Nếu là lần đầu tiên sử dụng, bạn cần phải đăng ký tài khoản. Để đăng kí tài khoản, bạn làm như sau:
 
+<span style="color:red">red</span>
+
 <span style="color:red;">Bước 1.<span>Mở trình duyệt web như Google Chrome, Cốc Cốc, Firefox,...
 
 Bước 2. Truy cập trang web [https://www.sachmem.vn](https://www.sachmem.vn) hoặc [ sachmem.vn](sachmem.vn).
