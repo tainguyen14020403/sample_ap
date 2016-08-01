@@ -142,7 +142,8 @@ Nút
 # V. Góp ý
 
 Sách Mềm vẫn đang trong quá trình phát triển nên có thể còn lỗi và chưa thực sự hoàn thiện. Khi gặp vấn đề hoặc có ý tưởng mới mong mọi người góp ý để sách được hoàn thiện hơn. Để góp ý, bạn làm như sau:
-![](https://lh4.googleusercontent.com/JVz3DOZ69auhXau-7qRcldxmUJZ4zyNWvMhUAfNa9Ku2V-Rt9Akze4imf5Brg3F90RfwTlOS7Kpx_OjvVM_43YwaUBdN9vUZqjijp61LrvzLtVDtaZqQQKKEWxhNWowy23iLKgnG) ![](https://lh6.googleusercontent.com/W8xlSGSP479a5khXhteXdjrPnKSbFAL3-7oTCv4dGDapa_E1IzHBJYVHVc83SPgbu7gJhcvrdeh7Z8tinRlN7ZqIZzdfvTi62Y1x1yC-owqD9OX9GqebWcUdHm_soNRUu84cs5RF)
+<img src="https://lh4.googleusercontent.com/JVz3DOZ69auhXau-7qRcldxmUJZ4zyNWvMhUAfNa9Ku2V-Rt9Akze4imf5Brg3F90RfwTlOS7Kpx_OjvVM_43YwaUBdN9vUZqjijp61LrvzLtVDtaZqQQKKEWxhNWowy23iLKgnG" width="40" height="40"> ![](https://lh6.googleusercontent.com/W8xlSGSP479a5khXhteXdjrPnKSbFAL3-7oTCv4dGDapa_E1IzHBJYVHVc83SPgbu7gJhcvrdeh7Z8tinRlN7ZqIZzdfvTi62Y1x1yC-owqD9OX9GqebWcUdHm_soNRUu84cs5RF)
+
 Bước 1. Khi vào một bài học, chọn          và ấn  vào biểu tượng  , một khung nhập sẽ được hiện lên.
 
 Bước 2. Viết phần góp ý của mình vào trong khung rồi ấn **Đăng**.
