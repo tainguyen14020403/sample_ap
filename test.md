@@ -76,21 +76,21 @@ Một số chức năng chính của Sách Mềm:
 5.Các tương tác trong thanh công cụ (phần dưới cùng):
 
 * Ấn vào biểu tượng 
- <img src="https://lh5.googleusercontent.com/vFwdBFM_55nIthD17Mq0OSpCuPzUExL73VjIeI9ry5he_501aaTH9NK91oO_o7oP1zJLm84rBTXvH0BPyyXmlOoFpB48eESoK_htYl-q78ih1rmK554mipoJGiKUU8Q70qkUJnim" width="20" height="20">để chọn các chức năng điều chỉnh như sau:
+ <img src="https://lh5.googleusercontent.com/vFwdBFM_55nIthD17Mq0OSpCuPzUExL73VjIeI9ry5he_501aaTH9NK91oO_o7oP1zJLm84rBTXvH0BPyyXmlOoFpB48eESoK_htYl-q78ih1rmK554mipoJGiKUU8Q70qkUJnim" width="20" height="20"> để chọn các chức năng điều chỉnh như sau:
 
 
 * Nút 
-<img src="https://lh6.googleusercontent.com/QFBvQVP3sh7m5Rzp_VKtBQtRMD4n48UvajVgOzd1sqxTjemw3hpPgvAM_8H54ssHRsEvWPGMBcdZ02D4fDaaZzPa-W4Nbu1xTMSejfZs_s-W5Tv8g1MwyasTISS4-seaGvuWgwNu" width="20" height="20">để hiện các thông tin trợ giúp cho bài học như: Hướng dẫn thao tác, chủ đề, nội dung,...
+<img src="https://lh6.googleusercontent.com/QFBvQVP3sh7m5Rzp_VKtBQtRMD4n48UvajVgOzd1sqxTjemw3hpPgvAM_8H54ssHRsEvWPGMBcdZ02D4fDaaZzPa-W4Nbu1xTMSejfZs_s-W5Tv8g1MwyasTISS4-seaGvuWgwNu" width="20" height="20"> để hiện các thông tin trợ giúp cho bài học như: Hướng dẫn thao tác, chủ đề, nội dung,...
 * Nút 
-<img src="https://lh4.googleusercontent.com/nID2mtJZ95GNAZbYZ_z12nkInjI31MLgxtHrblBlMxuxER6rzsMjwHIBTyni9iupCviksanjsAag1o0VvAmEsA5J_prXyJDoVUD2iXGT4j4jSPOWel4owf96DmVD1Yew9oXsp2mH" width="20" height="20">để hiện phần từ vựng trong bài học, có thể ấn vào từng từ để nghe phát âm.
-* Nút
-<img src="https://lh5.googleusercontent.com/y_a2_Ff2PxyXN5hPj0x9QIAmth9xF_hzEHxMxLcJOYpniGvuGgPZawEQd5dZI82aEVcuvOlqNywvSTLc3FaowJzHOryrqFJsqRmRDqJvWFd6gtjMHzswssW9r_8AR8F-jqj39MEX" width="20" height="20">để hiện phần góp ý người dùng.
+<img src="https://lh4.googleusercontent.com/nID2mtJZ95GNAZbYZ_z12nkInjI31MLgxtHrblBlMxuxER6rzsMjwHIBTyni9iupCviksanjsAag1o0VvAmEsA5J_prXyJDoVUD2iXGT4j4jSPOWel4owf96DmVD1Yew9oXsp2mH" width="20" height="20"> để hiện phần từ vựng trong bài học, có thể ấn vào từng từ để nghe phát âm.
+* Nút 
+<img src="https://lh5.googleusercontent.com/y_a2_Ff2PxyXN5hPj0x9QIAmth9xF_hzEHxMxLcJOYpniGvuGgPZawEQd5dZI82aEVcuvOlqNywvSTLc3FaowJzHOryrqFJsqRmRDqJvWFd6gtjMHzswssW9r_8AR8F-jqj39MEX" width="20" height="20"> để hiện phần góp ý người dùng.
 
-* Nút
-<img src="https://lh5.googleusercontent.com/C8e9KVWQ69U2D18GFbewDhAM7ktbToadjgPJjcnc37lsPWshlIzUglOM_mqc4Nfme04fQPqa1FZ9chFs_tI9nmFpthMzIkYm6s5Enhdz4pxUifq6_dWv0sd37RPtDR6vnsfO2p7K" width="20" height="20">để hiện phần trò chơi của bài.
+* Nút 
+<img src="https://lh5.googleusercontent.com/C8e9KVWQ69U2D18GFbewDhAM7ktbToadjgPJjcnc37lsPWshlIzUglOM_mqc4Nfme04fQPqa1FZ9chFs_tI9nmFpthMzIkYm6s5Enhdz4pxUifq6_dWv0sd37RPtDR6vnsfO2p7K" width="20" height="20"> để hiện phần trò chơi của bài.
 
-* Nút
-<img src="https://lh6.googleusercontent.com/DwmB3ctMOc5OBJIh1gKNmm7HmDWOpVLTZXex3EWa2hf4H4jqNKVVDWGKSWvuVcT9GxETuMhcwd-3qzLYsXLOGYsC3rf3P3QGcSOO3o82hCumiMRqpjB7pIapqfvmvFvQTGf-TS3j" width="20" height="20">để hiện phần tài liệu tham khảo của bài.
+* Nút 
+<img src="https://lh6.googleusercontent.com/DwmB3ctMOc5OBJIh1gKNmm7HmDWOpVLTZXex3EWa2hf4H4jqNKVVDWGKSWvuVcT9GxETuMhcwd-3qzLYsXLOGYsC3rf3P3QGcSOO3o82hCumiMRqpjB7pIapqfvmvFvQTGf-TS3j" width="20" height="20"> để hiện phần tài liệu tham khảo của bài.
 
 
 Ấn vào biểu tượng 
