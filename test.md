@@ -93,61 +93,61 @@ Một số chức năng chính của Sách Mềm:
 <img src="https://lh6.googleusercontent.com/DwmB3ctMOc5OBJIh1gKNmm7HmDWOpVLTZXex3EWa2hf4H4jqNKVVDWGKSWvuVcT9GxETuMhcwd-3qzLYsXLOGYsC3rf3P3QGcSOO3o82hCumiMRqpjB7pIapqfvmvFvQTGf-TS3j" width="20" height="20">để hiện phần tài liệu tham khảo của bài.
 
 
-Ấn vào biểu tượng
-<img src="https://lh3.googleusercontent.com/UegsvrbKgjoLd0S6n74qr7ioZV-IAqyxggpKvxgh4M5OO90BS7LPtvEiS7wEE_CXZ-LcptJCvh17J-5GoRlf-xsYFapzWJiviwN3MuytbBmn7c8__deynPkN4dVeZRUQlsWZszAa" width="20" height="20">
+Ấn vào biểu tượng 
+<img src="https://lh3.googleusercontent.com/UegsvrbKgjoLd0S6n74qr7ioZV-IAqyxggpKvxgh4M5OO90BS7LPtvEiS7wEE_CXZ-LcptJCvh17J-5GoRlf-xsYFapzWJiviwN3MuytbBmn7c8__deynPkN4dVeZRUQlsWZszAa" width="20" height="20"> 
 để chọn các chức năng điều chỉnh như sau:
 
-* Nút
-<img src="https://lh4.googleusercontent.com/4lcRW-III46d2_Hpza591az_0sEFDmqRNf9pFacwC08HYe8TGkVrfmxbxxTU_kImkltjGbzwA7t5GHMFWNupChMqjFaWFK67INaxUUs5SLGnzXVxDObYsz0YwRCUtv14LZTey6m0" width="20" height="20">để thu gọn bài học vào 1 trang (không cần cuộn).
+* Nút 
+<img src="https://lh4.googleusercontent.com/4lcRW-III46d2_Hpza591az_0sEFDmqRNf9pFacwC08HYe8TGkVrfmxbxxTU_kImkltjGbzwA7t5GHMFWNupChMqjFaWFK67INaxUUs5SLGnzXVxDObYsz0YwRCUtv14LZTey6m0" width="20" height="20"> để thu gọn bài học vào 1 trang (không cần cuộn).
 
-* Nút
-<img src="https://lh4.googleusercontent.com/7tYBT9r2qZVho8eQYRLTG8x9bcT_0T1KyofzM53gwCSvH_KMugZ0ICV25DYupPd0WgRmCYZ1JEj-yrBKf-qkDgqi6kSvgp5wVDQPBVvkEaJxQpI2g6O78YK8FbYVvPANlELvZ6lB" width="20" height="20">để phóng to chữ.
+* Nút 
+<img src="https://lh4.googleusercontent.com/7tYBT9r2qZVho8eQYRLTG8x9bcT_0T1KyofzM53gwCSvH_KMugZ0ICV25DYupPd0WgRmCYZ1JEj-yrBKf-qkDgqi6kSvgp5wVDQPBVvkEaJxQpI2g6O78YK8FbYVvPANlELvZ6lB" width="20" height="20"> để phóng to chữ.
 
-* Nút
-<img src="https://lh5.googleusercontent.com/LfC8FvDbcdkksF9RdZk5arz8fHU_TrsC5eWLFrZw2uKSNO9cTvba80REseYbMLMrrtriwxCRPaNc5znYMD43AsHvVY-y87cD1mm3x-T4t8Fx4WOfGnP38vH84_wfI7dlkcfOEfv5" width="20" height="20">để thu nhỏ chữ.
+* Nút 
+<img src="https://lh5.googleusercontent.com/LfC8FvDbcdkksF9RdZk5arz8fHU_TrsC5eWLFrZw2uKSNO9cTvba80REseYbMLMrrtriwxCRPaNc5znYMD43AsHvVY-y87cD1mm3x-T4t8Fx4WOfGnP38vH84_wfI7dlkcfOEfv5" width="20" height="20"> để thu nhỏ chữ.
  
-* Nút
-<img src="https://lh5.googleusercontent.com/Z8btyt06Fgi4ksunnvYu3yCQFAx9dMORregMq_E0X4-WbkirnSF0DmgXKT85FEa6ds0w2d6ZbEWCNADUHeLeEjWpQTDFJqoyLBm0wUSNfSkVCJEPXQgTRp1L9XdgjKpKc76GtE4H" width="20" height="20">để xóa bỏ các tiện ích hiện có.
-
-Nút
-<img src="https://lh6.googleusercontent.com/ude8dgLFvUTWOC40WTLhque9cCWWmEV7GBSYIOZ7U_0rBlU934l81PHnOiFV5G_TD4kah3zbeGFgJOgn-sd8X5H6FM3SDdEJ-uJsvaDXZQmyqJ3W-tcylReYjKAda_iBRgTA2sCA" width="20" height="20">để kiểm tra kết quả làm bài.
+* Nút 
+<img src="https://lh5.googleusercontent.com/Z8btyt06Fgi4ksunnvYu3yCQFAx9dMORregMq_E0X4-WbkirnSF0DmgXKT85FEa6ds0w2d6ZbEWCNADUHeLeEjWpQTDFJqoyLBm0wUSNfSkVCJEPXQgTRp1L9XdgjKpKc76GtE4H" width="20" height="20"> để xóa bỏ các tiện ích hiện có.
 
 Nút 
-<img src="https://lh5.googleusercontent.com/PCtr4MMGEFXhtTbbTV-GsGkSmRBS3GpTxDEkkn8t-OxbkBGPnvR2CgPxB0JMgsqNY0QITpWQ7STc4a3ArBgS7TTsfbrEb6MDcix-pB01oeSSXZ2XVy7fZPhvoI-E1odqkbzSMH9K" width="20" height="20">để làm lại bài.
+<img src="https://lh6.googleusercontent.com/ude8dgLFvUTWOC40WTLhque9cCWWmEV7GBSYIOZ7U_0rBlU934l81PHnOiFV5G_TD4kah3zbeGFgJOgn-sd8X5H6FM3SDdEJ-uJsvaDXZQmyqJ3W-tcylReYjKAda_iBRgTA2sCA" width="20" height="20"> để kiểm tra kết quả làm bài.
 
 Nút 
-<img src="https://lh5.googleusercontent.com/01c6PFt2PQdJIgcV6fptflF0zmixF34kelPKiPNBOwBK-LyCSQoraiG_Sv3Upg8wGut0YFW1dVdtaTwM-AqEbxY1847X0FAatoOotcxNmXZFnQFlWJCmYLPoo-oKknLsBTbrH8GR" width="20" height="20">để vào bài học trước bài học hiện tại.
+<img src="https://lh5.googleusercontent.com/PCtr4MMGEFXhtTbbTV-GsGkSmRBS3GpTxDEkkn8t-OxbkBGPnvR2CgPxB0JMgsqNY0QITpWQ7STc4a3ArBgS7TTsfbrEb6MDcix-pB01oeSSXZ2XVy7fZPhvoI-E1odqkbzSMH9K" width="20" height="20"> để làm lại bài.
 
-Nút
-<img src="https://lh5.googleusercontent.com/070UaBQPWgYaHyW6dbZQPxO3_Ua79h_hj5y4Kaxd_KB2Nb6zEOb8DuNuXeaZoXJsG-xji_uhKbw8CxTV-MXa-nC2vE5NIKjCmXG8zTwCslKN8sTXYnyz_HT92KEISvKM4wx8z0im" width="20" height="20">để vào bài học sau bài học hiện tại.
+Nút 
+<img src="https://lh5.googleusercontent.com/01c6PFt2PQdJIgcV6fptflF0zmixF34kelPKiPNBOwBK-LyCSQoraiG_Sv3Upg8wGut0YFW1dVdtaTwM-AqEbxY1847X0FAatoOotcxNmXZFnQFlWJCmYLPoo-oKknLsBTbrH8GR" width="20" height="20"> để vào bài học trước bài học hiện tại.
 
-Nút
-<img src="https://lh4.googleusercontent.com/5nojOHLDwFE3c2tF_DTiK6knUb5MBHNkn29sr-pxtcJ6OFA6RsRxM5pqTbkeyn0BKMmh0IUtQJTf28evV4VwRpGV-vX28WjTS3zpOC_11KkQ5yXN84kz7I--K1okD8l5z5PoUFZ8" width="20" height="20">để chạy audio của bài
+Nút 
+<img src="https://lh5.googleusercontent.com/070UaBQPWgYaHyW6dbZQPxO3_Ua79h_hj5y4Kaxd_KB2Nb6zEOb8DuNuXeaZoXJsG-xji_uhKbw8CxTV-MXa-nC2vE5NIKjCmXG8zTwCslKN8sTXYnyz_HT92KEISvKM4wx8z0im" width="20" height="20"> để vào bài học sau bài học hiện tại.
 
-Nút
-<img src="https://lh4.googleusercontent.com/IvltAjVKiaMvtk7kvYV9tK-reEd2_6cNalyRbtkP6rlyI21PxWDzwH0cx3hw-WkfAZOY0gW7KNHVQPjixbcaotN1mwtlV_XNf6Th6tMMxzqprKWPbNavHf5O-4sv_FWkUu-b3YHa" width="20" height="20">
+Nút 
+<img src="https://lh4.googleusercontent.com/5nojOHLDwFE3c2tF_DTiK6knUb5MBHNkn29sr-pxtcJ6OFA6RsRxM5pqTbkeyn0BKMmh0IUtQJTf28evV4VwRpGV-vX28WjTS3zpOC_11KkQ5yXN84kz7I--K1okD8l5z5PoUFZ8" width="20" height="20"> để chạy audio của bài
+
+Nút 
+<img src="https://lh4.googleusercontent.com/IvltAjVKiaMvtk7kvYV9tK-reEd2_6cNalyRbtkP6rlyI21PxWDzwH0cx3hw-WkfAZOY0gW7KNHVQPjixbcaotN1mwtlV_XNf6Th6tMMxzqprKWPbNavHf5O-4sv_FWkUu-b3YHa" width="20" height="20"> 
 để dừng audio của bài.
 
-Nút
-<img src="https://lh4.googleusercontent.com/-877OzprOn4qXpcqCcil7c3KpFbnAlV9qSMgHGNOsXy-2SMWegxoBfpjA-kvffG-orwHUtvSMqQddrCFYTUZFpevDqCRrf_SuYhH4LJBx4gZUL44S88h2yu2BbfLxf30zju1ugmi" width="20" height="20">để bật chế độ xem tất cả đáp án của bài.
+Nút 
+<img src="https://lh4.googleusercontent.com/-877OzprOn4qXpcqCcil7c3KpFbnAlV9qSMgHGNOsXy-2SMWegxoBfpjA-kvffG-orwHUtvSMqQddrCFYTUZFpevDqCRrf_SuYhH4LJBx4gZUL44S88h2yu2BbfLxf30zju1ugmi" width="20" height="20"> để bật chế độ xem tất cả đáp án của bài.
 
-Nút
-<img src="https://lh4.googleusercontent.com/RrzOZ1eKykMPEaUBAYo_k_dNnOvnvroBwdSLEi0sCpos2PX4ZPToXYrm0iKLSyq6-gYogkY4kVnJab5NnEDhjsXRtwPVMi148vUB21usjm9j8Tkyu2khsJYGVti_MnelNYE_eK8r" width="20" height="20">để tắt chế độ xem tất cả đáp án.
+Nút 
+<img src="https://lh4.googleusercontent.com/RrzOZ1eKykMPEaUBAYo_k_dNnOvnvroBwdSLEi0sCpos2PX4ZPToXYrm0iKLSyq6-gYogkY4kVnJab5NnEDhjsXRtwPVMi148vUB21usjm9j8Tkyu2khsJYGVti_MnelNYE_eK8r" width="20" height="20"> để tắt chế độ xem tất cả đáp án.
 
-Nút
+Nút 
 <img src="https://lh4.googleusercontent.com/qHo13qloNzGAB1ZV0WJby17xlj3u1JQ-Km2VjYm_Ma0d2gCdXpDhlLdZ0c9qjJ9zSXIYFAzjdpyTPFuTaF9vgSqrqJmEe6V19rgSuFNcIW6E-ikaLJ7TnB42JKPmdJSAiClvxSmU" width="20" height="20">để bật chế độ xem từng đáp án, click 2 lần vào chỗ điền đáp án để hiện đáp án.
 
-Nút
-<img src="https://lh5.googleusercontent.com/DNAat06mR-1gk2fZj6O3-xDK3v0I9_y6UKlLXWeb6yZvpqf0RJPSdP1M6CvXPowNO_EB2Hq8rIiQR_257CsyMebZbR_qz_Ri5GUz4tgAtP_cTRr_pqE1lHR1Utqh3_WsGNA3r7pQ" width="20" height="20">để tắt chế độ xem từng đáp án.
+Nút 
+<img src="https://lh5.googleusercontent.com/DNAat06mR-1gk2fZj6O3-xDK3v0I9_y6UKlLXWeb6yZvpqf0RJPSdP1M6CvXPowNO_EB2Hq8rIiQR_257CsyMebZbR_qz_Ri5GUz4tgAtP_cTRr_pqE1lHR1Utqh3_WsGNA3r7pQ" width="20" height="20"> để tắt chế độ xem từng đáp án.
 
 # V. Góp ý
 
 Sách Mềm vẫn đang trong quá trình phát triển nên có thể còn lỗi và chưa thực sự hoàn thiện. Khi gặp vấn đề hoặc có ý tưởng mới mong mọi người góp ý để sách được hoàn thiện hơn. Để góp ý, bạn làm như sau:
 
 Bước 1. Khi vào một bài học, chọn 
-<img src="https://lh4.googleusercontent.com/JVz3DOZ69auhXau-7qRcldxmUJZ4zyNWvMhUAfNa9Ku2V-Rt9Akze4imf5Brg3F90RfwTlOS7Kpx_OjvVM_43YwaUBdN9vUZqjijp61LrvzLtVDtaZqQQKKEWxhNWowy23iLKgnG" width="20" height="20">
+<img src="https://lh4.googleusercontent.com/JVz3DOZ69auhXau-7qRcldxmUJZ4zyNWvMhUAfNa9Ku2V-Rt9Akze4imf5Brg3F90RfwTlOS7Kpx_OjvVM_43YwaUBdN9vUZqjijp61LrvzLtVDtaZqQQKKEWxhNWowy23iLKgnG" width="20" height="20"> 
 và ấn  vào biểu tượng 
-<img src="https://lh6.googleusercontent.com/W8xlSGSP479a5khXhteXdjrPnKSbFAL3-7oTCv4dGDapa_E1IzHBJYVHVc83SPgbu7gJhcvrdeh7Z8tinRlN7ZqIZzdfvTi62Y1x1yC-owqD9OX9GqebWcUdHm_soNRUu84cs5RF" width="20" height="20">
+<img src="https://lh6.googleusercontent.com/W8xlSGSP479a5khXhteXdjrPnKSbFAL3-7oTCv4dGDapa_E1IzHBJYVHVc83SPgbu7gJhcvrdeh7Z8tinRlN7ZqIZzdfvTi62Y1x1yC-owqD9OX9GqebWcUdHm_soNRUu84cs5RF" width="20" height="20"> 
 , một khung nhập sẽ được hiện lên.
 
 Bước 2. Viết phần góp ý của mình vào trong khung rồi ấn **Đăng**.
