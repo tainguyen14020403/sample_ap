@@ -36,7 +36,7 @@ Bước 3. Sau khi đăng nhập, màn hình sẽ hiển thị như hình bên d
 # III. Thêm sách
 Để thêm sách bạn làm như sau:
 
-Bước 1. Ấn vào nút Thêm sách.
+Bước 1. Ấn vào nút **Thêm sách**.
 ![](https://lh3.googleusercontent.com/px-dRbnq5H0LoDf10lAHY1T4-rXFbvM3Q_oZM4MoBODr1tk4JVTgqxAgDgnjIz1VjI7FC5QDJ6D2vI6xi6rbTFBtBJLnZNyK9BV5cl2TX2yIWiXIStarxt139mOin2WzIB8XIWgk)
 
 Bước 2. Nhập key và ấn **Gửi**, chú ý nhập sai quá 8 lần sẽ cần xác nhận lại.
