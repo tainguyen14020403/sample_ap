@@ -53,18 +53,18 @@ Bước 4. Ấn vào bìa sách để xem bài học.
 
 Một số chức năng chính của Sách Mềm:
 
-1.Khi ấn vào sách, trang web sẽ hiện ra danh sách các Unit. Ở góc mỗi Unit sẽ có biểu tượng tài liệu tham khảo của Unit đó. Do chức năng này đang được xây dựng nên có Unit chưa có tài liệu tham khảo.
+1. Khi ấn vào sách, trang web sẽ hiện ra danh sách các Unit. Ở góc mỗi Unit sẽ có biểu tượng tài liệu tham khảo của Unit đó. Do chức năng này đang được xây dựng nên có Unit chưa có tài liệu tham khảo.
 ![](https://lh6.googleusercontent.com/3kLQ8rfJSPwbzCO7j1CzTKoZRTT0eAynybjQl0utt4US_OahmsmLj4QqGh73yl-6V8-2UzOHob4pwBOBtQXuOPgV_qWRHtjUmw-2C9NmRnzh75wXtAY6v4R4EArCxS3tnTprWF1p)
 
-2.Khi ấn vào 1 Unit, trang web sẽ hiện ra danh sách các bài học trong đó. Ấn vào tên bài học để vào xem.
+2. Khi ấn vào 1 Unit, trang web sẽ hiện ra danh sách các bài học trong đó. Ấn vào tên bài học để vào xem.
 
 ![](https://lh6.googleusercontent.com/pXXXtAPtaTmm3R-sDI1RZ6txDN4w0B_ZTB2YKJLBWJSUSJZ-G4myTOpeC4ZN8iqQRZxvy72DotrQUl5lpwCXBPnwwrmPgg43t7BiwvjOV49xvdCb5J6EqaoYeOCyBQ25hx6lG-ND)
 
-3.Đây là giao diện 1 bài ví dụ trên Sách Mềm.
+3. Đây là giao diện 1 bài ví dụ trên Sách Mềm.
 
 ![](https://lh5.googleusercontent.com/vk1zKCr1TswCtuRAG8AQvwLWIbeWHLAty5QtCSvx18PFYNJpCj6nBB1Jk3nK0BTp-yenqgpeU4i2Uqok6svXpgPP_FsrcquLbsp-ikoqRljHy_5g605bk4H-FH5WZhtBNzZBUXVF)
 
-4.Các tương tác trong thanh tiêu đề (phần trên cùng):
+4. Các tương tác trong thanh tiêu đề (phần trên cùng):
   * Ấn vào biểu tượng Sách Mềm góc trên cùng bên trái để về trang chủ - trang có chứa tất cả các sách của bạn.
   * Ấn vào tên sách ví dụ như "Tiếng Anh 6 Tập một" để về trang chứa tất cả các Unit trong sách Tiếng Anh 6 Tập một.
   * Ấn vào tên unit ví dụ như "Unit 1 MY NEW SCHOOL" để về trang chứa các bài học trong Unit 1.
@@ -73,7 +73,7 @@ Một số chức năng chính của Sách Mềm:
 
 ![](https://lh5.googleusercontent.com/XcE_8Ss4kGA0xH7SnhBFc4vhbHtaidOYMrXFUBlJyz8TFOOOlLkSlrHRKZiQFNUu75USRExh1VMG6Iy6lZiAtYxNhT-7Rn8bIwg2OCKj9LCVKKIfVV-va9nQNLW6f2CrVRntKzO8)
 
-5.Các tương tác trong thanh công cụ (phần dưới cùng):
+5. Các tương tác trong thanh công cụ (phần dưới cùng):
 
 * Ấn vào biểu tượng 
  <img src="https://lh5.googleusercontent.com/vFwdBFM_55nIthD17Mq0OSpCuPzUExL73VjIeI9ry5he_501aaTH9NK91oO_o7oP1zJLm84rBTXvH0BPyyXmlOoFpB48eESoK_htYl-q78ih1rmK554mipoJGiKUU8Q70qkUJnim" width="20" height="20"> để chọn các chức năng điều chỉnh như sau:
