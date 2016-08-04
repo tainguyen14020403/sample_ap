@@ -76,12 +76,12 @@ Một số chức năng chính của Sách Mềm:
 5.Các tương tác trong thanh công cụ (phần dưới cùng):
 
 * Ấn vào biểu tượng 
-<img src="https://lh5.googleusercontent.com/vFwdBFM_55nIthD17Mq0OSpCuPzUExL73VjIeI9ry5he_501aaTH9NK91oO_o7oP1zJLm84rBTXvH0BPyyXmlOoFpB48eESoK_htYl-q78ih1rmK554mipoJGiKUU8Q70qkUJnim" width="20" height="20">để chọn các chức năng điều chỉnh như sau:
+ <img src="https://lh5.googleusercontent.com/vFwdBFM_55nIthD17Mq0OSpCuPzUExL73VjIeI9ry5he_501aaTH9NK91oO_o7oP1zJLm84rBTXvH0BPyyXmlOoFpB48eESoK_htYl-q78ih1rmK554mipoJGiKUU8Q70qkUJnim" width="20" height="20">để chọn các chức năng điều chỉnh như sau:
 
 
-* Nút
+* Nút 
 <img src="https://lh6.googleusercontent.com/QFBvQVP3sh7m5Rzp_VKtBQtRMD4n48UvajVgOzd1sqxTjemw3hpPgvAM_8H54ssHRsEvWPGMBcdZ02D4fDaaZzPa-W4Nbu1xTMSejfZs_s-W5Tv8g1MwyasTISS4-seaGvuWgwNu" width="20" height="20">để hiện các thông tin trợ giúp cho bài học như: Hướng dẫn thao tác, chủ đề, nội dung,...
-* Nút
+* Nút 
 <img src="https://lh4.googleusercontent.com/nID2mtJZ95GNAZbYZ_z12nkInjI31MLgxtHrblBlMxuxER6rzsMjwHIBTyni9iupCviksanjsAag1o0VvAmEsA5J_prXyJDoVUD2iXGT4j4jSPOWel4owf96DmVD1Yew9oXsp2mH" width="20" height="20">để hiện phần từ vựng trong bài học, có thể ấn vào từng từ để nghe phát âm.
 * Nút
 <img src="https://lh5.googleusercontent.com/y_a2_Ff2PxyXN5hPj0x9QIAmth9xF_hzEHxMxLcJOYpniGvuGgPZawEQd5dZI82aEVcuvOlqNywvSTLc3FaowJzHOryrqFJsqRmRDqJvWFd6gtjMHzswssW9r_8AR8F-jqj39MEX" width="20" height="20">để hiện phần góp ý người dùng.
@@ -143,9 +143,12 @@ Nút
 # V. Góp ý
 
 Sách Mềm vẫn đang trong quá trình phát triển nên có thể còn lỗi và chưa thực sự hoàn thiện. Khi gặp vấn đề hoặc có ý tưởng mới mong mọi người góp ý để sách được hoàn thiện hơn. Để góp ý, bạn làm như sau:
-<img src="https://lh4.googleusercontent.com/JVz3DOZ69auhXau-7qRcldxmUJZ4zyNWvMhUAfNa9Ku2V-Rt9Akze4imf5Brg3F90RfwTlOS7Kpx_OjvVM_43YwaUBdN9vUZqjijp61LrvzLtVDtaZqQQKKEWxhNWowy23iLKgnG" width="20" height="20"> <img src="https://lh6.googleusercontent.com/W8xlSGSP479a5khXhteXdjrPnKSbFAL3-7oTCv4dGDapa_E1IzHBJYVHVc83SPgbu7gJhcvrdeh7Z8tinRlN7ZqIZzdfvTi62Y1x1yC-owqD9OX9GqebWcUdHm_soNRUu84cs5RF" width="20" height="20">
 
-Bước 1. Khi vào một bài học, chọn          và ấn  vào biểu tượng  , một khung nhập sẽ được hiện lên.
+Bước 1. Khi vào một bài học, chọn 
+<img src="https://lh4.googleusercontent.com/JVz3DOZ69auhXau-7qRcldxmUJZ4zyNWvMhUAfNa9Ku2V-Rt9Akze4imf5Brg3F90RfwTlOS7Kpx_OjvVM_43YwaUBdN9vUZqjijp61LrvzLtVDtaZqQQKKEWxhNWowy23iLKgnG" width="20" height="20">
+và ấn  vào biểu tượng 
+<img src="https://lh6.googleusercontent.com/W8xlSGSP479a5khXhteXdjrPnKSbFAL3-7oTCv4dGDapa_E1IzHBJYVHVc83SPgbu7gJhcvrdeh7Z8tinRlN7ZqIZzdfvTi62Y1x1yC-owqD9OX9GqebWcUdHm_soNRUu84cs5RF" width="20" height="20">
+, một khung nhập sẽ được hiện lên.
 
 Bước 2. Viết phần góp ý của mình vào trong khung rồi ấn **Đăng**.
 
